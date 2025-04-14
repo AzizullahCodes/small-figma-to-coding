@@ -77,6 +77,10 @@ padding-bottom: 40px;}
 left:30px}
 .col-2{position: relative;
 left:10px;}
-.row{margin-top:-60px;}}
+.row{margin-top:-60px;}
+.container{margin-right: 0;
+  
+margin-left:0;}
+#logo{}}
 
 @media(max-width:986px){.row{margin-top: -60px;}}
