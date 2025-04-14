@@ -87,6 +87,14 @@ padding-left: 20px;}
 .container{margin-right: 0;
   
 margin-left:0;}
+#ic{font-size: 60px;}
+ul{background-color: aquamarine;
+padding:20px;
+border-radius: 20px;
+margin-top:10px;}
+.logo{background-color: black;
+padding:10px;
+border-radius: 20px;}
 }
 
 @media(max-width:986px){.row{margin-top: -60px;}}
